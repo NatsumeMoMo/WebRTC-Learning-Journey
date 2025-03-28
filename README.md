@@ -7,7 +7,7 @@
 
 ### GCC算法理论
 
-阅读Paper《Analysis and Design of the Google Congestion Control for Web Real-time Communication (WebRTC)》，加深对WebRTC的拥塞控制算法GCC的理解：
+阅读Paper《Analysis and Design of the Google Congestion Control for Web Real-time Communication (WebRTC)》，加深对WebRTC拥塞控制算法GCC的理解：
 
 https://github.com/NatsumeMoMo/WebRTC-GCC-Analysis
 
